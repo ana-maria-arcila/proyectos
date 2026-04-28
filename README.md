@@ -20,7 +20,7 @@ Archivo de Jupyter con el miniproyecto 1 de Física estadística. Busca evaluar 
 ## carroMapeo
 
 05/06/2024
-Link al repositorio con el proyecto del carro de mapeo. Se buscaba tener un carro que pudiera mapear datos tomados de varios sensores en distintos puntos de una habitación.
+Link al repositorio con el proyecto del carro de mapeo (Fast API, React + Vite). Se buscaba tener un carro que pudiera mapear datos tomados de varios sensores en distintos puntos de una habitación.
 
 ## decaimientoRadio
 
