@@ -2,6 +2,10 @@
 
 A continuación una breve descripción de los proyectos mostrados en este repositorio en orden de más reciente a más antiguo.
 
+## optimizacion-mercado-electrico-colombia
+27/06/2026
+Modelo simplificado de despacho económico para el Sistema Interconectado Nacional (SIN) de Colombia usando programación lineal y datos abiertos de SIMEM/XM.
+
 ## trotterQC
 
 15/08/2025
